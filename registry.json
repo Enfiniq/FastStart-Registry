@@ -5,7 +5,21 @@
       "fastStart": "http://localhost:3000/faststart/button",
       "author": "Enfiniq",
       "type": "component",
-      "versions": ["1.0.0"]
+      "versions": [
+        "1.0.0"
+      ]
+    },
+    "my-test-component": {
+      "name": "my-test-component",
+      "fastStart": "http://localhost:3000/faststart/my-test-component",
+      "versions": [
+        "1.0.0"
+      ],
+      "type": "component",
+      "author": "TestUser",
+      "apiKey": "39923a5bf7b8edaa6b2a87bd1d2b8f54",
+      "createdAt": "2025-08-11T15:08:08.969Z",
+      "updatedAt": "2025-08-11T15:08:08.969Z"
     }
   }
 }
