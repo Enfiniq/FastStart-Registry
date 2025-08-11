@@ -10,16 +10,13 @@
       ]
     },
     "awesome-button": {
-      "name": "awesome-button",
-      "fastStart": "http://localhost:3000/faststart/awesome-button",
+      "fastStart": "http://localhost:3000/faststart/awesome-button-v2",
       "versions": [
-        "2.0.0"
+        "2.0.0",
+        "2.1.0"
       ],
       "type": "component",
-      "author": "DevTeam",
-      "apiKey": "6dd1b603a875cc291a197882735f797d",
-      "createdAt": "2025-08-11T15:10:42.996Z",
-      "updatedAt": "2025-08-11T15:10:42.996Z"
+      "author": "DevTeam"
     },
     "clean-test-package": {
       "fastStart": "http://localhost:3000/faststart/clean-test-package",
