@@ -20,6 +20,14 @@
       "apiKey": "6dd1b603a875cc291a197882735f797d",
       "createdAt": "2025-08-11T15:10:42.996Z",
       "updatedAt": "2025-08-11T15:10:42.996Z"
+    },
+    "clean-test-package": {
+      "fastStart": "http://localhost:3000/faststart/clean-test-package",
+      "versions": [
+        "1.0.0"
+      ],
+      "type": "library",
+      "author": "CleanUser"
     }
   }
 }
