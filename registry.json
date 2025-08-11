@@ -17,6 +17,14 @@
       ],
       "type": "component",
       "author": "DevTeam"
+    },
+    "direct-url-package": {
+      "fastStart": "!https://raw.githubusercontent.com/enfiniq/spread-registry/main/registry.json",
+      "versions": [
+        "1.0.0"
+      ],
+      "type": "utility",
+      "author": "TestUser"
     }
   }
 }
