@@ -17,14 +17,6 @@
       ],
       "type": "component",
       "author": "DevTeam"
-    },
-    "clean-test-package": {
-      "fastStart": "http://localhost:3000/faststart/clean-test-package",
-      "versions": [
-        "1.0.0"
-      ],
-      "type": "library",
-      "author": "CleanUser"
     }
   }
 }
