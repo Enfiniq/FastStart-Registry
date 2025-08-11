@@ -1,1 +1,11 @@
-{}
+{
+  "$schema": "https://faststart.neploom.com/schema/faststart-registry.json",
+  "fastStarts": {
+    "button": {
+      "fastStart": "http://localhost:3000/faststart/button",
+      "author": "Enfiniq",
+      "type": "component",
+      "versions": ["1.0.0"]
+    }
+  }
+}
