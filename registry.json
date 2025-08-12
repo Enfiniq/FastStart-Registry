@@ -25,6 +25,14 @@
       ],
       "type": "utility",
       "author": "TestUser"
+    },
+    "test-package": {
+      "fastStart": "https://example.com/test",
+      "versions": [
+        "1.0.0"
+      ],
+      "type": "utility",
+      "author": "TestAuthor"
     }
   }
 }
