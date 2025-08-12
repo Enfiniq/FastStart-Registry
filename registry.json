@@ -25,6 +25,14 @@
       ],
       "type": "utility",
       "author": "TestUser"
+    },
+    "test-package": {
+      "fastStart": "http://localhost:3000/faststart/test-package",
+      "author": "TestAuthor",
+      "type": "component",
+      "versions": [
+        "1.0.0"
+      ]
     }
   }
 }
