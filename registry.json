@@ -25,14 +25,6 @@
       ],
       "type": "utility",
       "author": "TestUser"
-    },
-    "test-package": {
-      "fastStart": "console.log(\"Hello World\");",
-      "author": "Test Author",
-      "type": "demo",
-      "versions": [
-        "1.0.0"
-      ]
     }
   }
 }
